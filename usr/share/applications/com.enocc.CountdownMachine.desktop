@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Countdown Machine
+Comment=Count the days until a given date
+Exec=countdown-machine
+Icon=x-office-calendar-symbolic
+Terminal=false
+Categories=Utility;GTK;
+Keywords=countdown;days;date;calendar;
+StartupNotify=true

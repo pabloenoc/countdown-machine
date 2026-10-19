@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /usr/lib/countdown-machine/countdown-machine.py "$@"

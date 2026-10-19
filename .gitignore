@@ -1,0 +1,11 @@
+# Build output
+build/
+
+# Compiled locally by dev-run.sh
+usr/share/glib-2.0/schemas/gschemas.compiled
+
+# Glade backups
+*.ui~
+
+# Python cache
+__pycache__/

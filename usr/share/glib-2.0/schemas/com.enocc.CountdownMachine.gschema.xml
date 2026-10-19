@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+	<schema id="com.enocc.CountdownMachine" path="/com/enocc/CountdownMachine/">
+		<key name="target-name" type="s">
+			<default>''</default>
+			<summary>Event name</summary>
+			<description>The name of the event being counted down to, like Thanksgiving or Christmas.</description>
+		</key>
+		<key name="target-date" type="s">
+			<default>''</default>
+			<summary>Target date</summary>
+			<description>The date to count down to, in YYYY-MM-DD format. Empty means no date is set.</description>
+		</key>
+	</schema>
+</schemalist>
