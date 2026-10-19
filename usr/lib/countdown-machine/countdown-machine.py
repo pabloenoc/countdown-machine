@@ -15,7 +15,7 @@ UI_FILE = os.path.join(
 	"..", "..", "share", "countdown-machine", "countdown-machine.ui",
 	)
 
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 
 class CountdownMachine(Gtk.Application):
 	def __init__(self):

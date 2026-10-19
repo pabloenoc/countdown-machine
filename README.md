@@ -13,7 +13,7 @@ Open **File -> Preferences**, give the event a name, and pick a date.
 Download the latest `.deb` from the [Releases](../../releases) page, then double-click it, or run:
 
 ```
-sudo apt install ./countdown-machine_1.0.0.deb
+sudo apt install ./countdown-machine_1.0.1.deb
 ```
 
 Countdown Machine will appear in the menu under Accessories.
