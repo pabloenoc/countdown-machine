@@ -8,3 +8,4 @@ Maintainer: Pablo Enoc <pablo@enocc.com>
 Description: Count the days until a given date
  A small GTK app for Linux Mint that shows how many days are left
  until a date you choose, like Christmas or Thanksgiving.
+ 
