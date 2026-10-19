@@ -2,6 +2,12 @@
 
 A small GTK app for Linux Mint that shows how many days are left until a given date.
 
+![Countdown Machine showing the days left until Thanksgiving](screenshots/countdown-machine.png)
+
+## Setting a date
+
+Open **File -> Preferences**, give the event a name, and pick a date.
+
 ## Install
 
 Download the latest `.deb` from the [Releases](../../releases) page, then double-click it, or run:
